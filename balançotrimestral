@@ -1,0 +1,12 @@
+class balançotrimestral {
+public static void main(string[] args)  
+int gastosjaneiro;
+gastosjaneiro = 1500
+int gastosfevereiro;
+gastosfevereiro = 23000
+int gastosmarço;
+gastosmarço = 17000
+int gastostrimestre = gastosjaneiro+gastosfevereiro+gastosmarço
+system.out.println(gastostrimestre);
+
+}
